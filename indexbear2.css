@@ -49,6 +49,8 @@ h1{
 	margin: 20px;
 	padding: 10px 20px;
 	color: aliceblue;
+	margin-right: -20;
+    margin-left: -20;
 }
 
 h2{
@@ -77,8 +79,3 @@ h2{
 	left: 4px;
 }
 
-.top-nav ul li:hover{
-	left: 4px;
-	text-decoration: none; 
-	
-}

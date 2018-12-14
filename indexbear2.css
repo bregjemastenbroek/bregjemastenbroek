@@ -55,11 +55,17 @@ h1{
 
 h2{
   font-family:xGeorgia;
+  
 }
 
 .top-nav ul{
 	list-style-type:none;
 	text-decoration: none; 
+}
+
+.video{
+	    width: 107%;
+	margin: 0 -20px;
 }
 
 .top-nav ul li{
